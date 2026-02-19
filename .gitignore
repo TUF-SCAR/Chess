@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Google Drive
+.tmp.driveupload/
+*.tmp
+*.log
+
 # Distribution / packaging
 .Python
 build/
